@@ -1,4 +1,4 @@
-# Spring Boot Dashboard-api Project
+# Spring Boot Full Mapping Project
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ## Requirements
@@ -19,5 +19,5 @@
 
 ## Database Structure:
 
-![alt text](https://i.pinimg.com/736x/eb/80/ce/eb80ceb26863a3be30e5655937f5fd44.jpg "Title")
+![alt text](![image](https://github.com/user-attachments/assets/65e97f50-cb16-4098-b34d-fa00dc7745d6)"Title")
 
